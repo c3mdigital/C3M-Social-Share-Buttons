@@ -1,8 +1,8 @@
-##C3M Social Share Buttons WordPress Plugin
+# C3M Social Share Buttons WordPress Plugin #
 
 This plugin adds the Twitter Tweet and Facebook Like button to your WordPress Blog Posts.  The buttons will be rendered after each post or post excerpt.
 
-###License
+## License  ##
 
 This plugin is licensed with the open source UnLicense License
 
@@ -31,7 +31,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
 
-#####Instructions
+## Instructions  ##
 
 Unzip folder to your WordPress plugins directory
 
